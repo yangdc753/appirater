@@ -1,3 +1,4 @@
+当用户打开app时，提醒用户给应用打分。
 Introduction
 ------------
 Appirater is a class that you can drop into any iPhone app (iOS 4.0 or later) that will help remind your users
